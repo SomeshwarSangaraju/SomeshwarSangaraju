@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div style="align: center;">
     <img src="banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
@@ -32,7 +32,7 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 
 <h2>💼 Tech Stack</h2>
 
-<ul style="line-height: 1.7; font-size: 26px;">
+<ul style="font-size: 26px;">
 
   <li><strong>Cloud:</strong> AWS Cloud</li>
   <li><strong>OS:</strong> Linux, Windows</li>
@@ -53,7 +53,7 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 <!-- What I Do -->
 <h2>🛠️ What I Do</h2>
 
-<ul style="line-height: 1.7; font-size: 26px;">
+<ul style="font-size: 26px;">
 
   <li>🛠 Build and manage infrastructure on <strong>AWS</strong> using <strong>Terraform</strong> for repeatable, secure provisioning</li>
 
