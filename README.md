@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 DevOps professional with 3+ Years of Cloud Experience I work with AWS DevOps. I build and manage cloud infrastructure to make software delivery faster and more reliable. I use DevOps tools to help projects run smoothly, scale well, and stay secure. I create CI/CD pipelines, automate deployments, and manage containers with Docker and Kubernetes. I aim to reduce downtime and improve development speed. I use Terraform to set up cloud resources like VMs, App Services, EC2, S3, and Load Balancers. I also monitor performance with tools like Prometheus, keeping applications running efficiently. I write scripts using Shell, Bash, and python to automate tasks, troubleshoot issues, and maintain 24/7 service availability. I follow best practices to keep cloud environments safe and efficient. Skills: Cloud Platforms: AWS, Azure Infrastructure as Code: Terraform, ARM Templates CI/CD Tools: Jenkins Containerization: Docker, Kubernetes Monitoring Tools: Azure Monitor, CloudWatch, Prometheus Scripting: Shell, Bash, PowerShell Networking: VPCs, Load Balancers, Security Groups Databases: RDS, SQL. Security: IAM, RBAC, Key Vault Deployment: Azure App Services, EC2, VMs.<br>🌟 Let’s work together to bring success to your cloud projects!
+I’m a passionate DevOps Engineer with over 3+ years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability with AWS
+<!-- 🚀 DevOps professional with 3+ Years of Cloud Experience I work with AWS DevOps. I build and manage cloud infrastructure to make software delivery faster and more reliable. I use DevOps tools to help projects run smoothly, scale well, and stay secure. I create CI/CD pipelines, automate deployments, and manage containers with Docker and Kubernetes. I aim to reduce downtime and improve development speed. I use Terraform to set up cloud resources like VMs, App Services, EC2, S3, and Load Balancers. I also monitor performance with tools like Prometheus, keeping applications running efficiently. I write scripts using Shell, Bash, and python to automate tasks, troubleshoot issues, and maintain 24/7 service availability. I follow best practices to keep cloud environments safe and efficient. Skills: Cloud Platforms: AWS, Azure Infrastructure as Code: Terraform, ARM Templates CI/CD Tools: Jenkins Containerization: Docker, Kubernetes Monitoring Tools: Azure Monitor, CloudWatch, Prometheus Scripting: Shell, Bash, PowerShell Networking: VPCs, Load Balancers, Security Groups Databases: RDS, SQL. Security: IAM, RBAC, Key Vault Deployment: Azure App Services, EC2, VMs.<br>🌟 Let’s work together to bring success to your cloud projects! -->
 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
@@ -100,7 +101,7 @@ Here are some ideas to get you started:
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
