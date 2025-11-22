@@ -8,11 +8,11 @@
 <!-- ## 👋 Hi, i'm Someshwar Sangaraju -->
 <h1 style="font-size: 48px;">👋 Hi, i'm Someshwar Sangaraju</h1>
 
-<h2 style="font-size: 36px;">DEVOPS ENGINEER</h2>
+<p style="font-size: 36px;">DEVOPS ENGINEER</p>
 
 <p style="font-size:18px; font-weight:600; color:#333; line-height:1.5;">
   🚀 <span style="color:#0073b5;">DevOps</span> • Cloud Engineer | 
-  <span style="color:#FF9900;">AWS</span> & | 
+  <span style="color:#FF9900;">AWS</span>| 
   CI/CD | Kubernetes | Terraform | Docker
 </p>
 
