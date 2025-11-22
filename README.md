@@ -6,7 +6,7 @@
 
 
 ## 👋 Hi, i'm Someshwar Sangaraju
-
+<h1 style="font-size: 48px;">👋 Hi, i'm Someshwar Sangaraju</h1>
 <!-- LinkedIn logo only -->
 <a href="https://linkedin.com/in/someshwar-sangaraju" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
