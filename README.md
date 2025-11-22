@@ -101,9 +101,15 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+<div style="text-align: center;">
+    ![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+</div>
+<br/>
+<div>
 ![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SomeshwarSangaraju&icon=0&color=2)](https://visitcount.itsvg.in)
