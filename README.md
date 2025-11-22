@@ -97,6 +97,8 @@ Here are some ideas to get you started:
 </body>
 </html>
 
+<hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)<br/>
