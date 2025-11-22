@@ -102,12 +102,9 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 
 # 📊 GitHub Stats:
 <div style="text-align: center;">
-    ![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-</div>
-<br/>
-<div>
-![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+    ![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+    ![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 
