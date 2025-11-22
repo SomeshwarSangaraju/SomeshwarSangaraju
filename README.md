@@ -30,24 +30,20 @@ Here are some ideas to get you started:
 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
-
-# 💼 Tech Stack:
-
-<!-- Tech Stack -->
 <h2>💼 Tech Stack</h2>
 
 <ul style="line-height: 1.7; font-size: 16px;">
 
-  <li><strong>Cloud:</strong> AWS, Azure, GAIA Cloud</li>
+  <li><strong>Cloud:</strong> AWS Cloud</li>
   <li><strong>OS:</strong> Linux, Windows</li>
-  <li><strong>CI/CD:</strong> Azure DevOps, GitHub Actions, Jenkins, Jules</li>
+  <li><strong>CI/CD:</strong> GitHub Actions, Jenkins</li>
   <li><strong>SCM:</strong> GitHub, Bitbucket</li>
-  <li><strong>IaC:</strong> Terraform, Cloudformation</li>
+  <li><strong>IaC:</strong> Terraform </li>
   <li><strong>Containers:</strong> Docker, Kubernetes</li>
   <li><strong>Security &amp; Scanning:</strong> SonarQube, Snyk</li>
   <li><strong>Artifactory:</strong> Nexus, JFrog</li>
   <li><strong>Scripting:</strong> Bash, Shell, Python</li>
-  <li><strong>Monitoring:</strong> Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor</li>
+  <li><strong>Monitoring:</strong> Splunk, Prometheus, Grafana, CloudWatch</li>
 
 </ul>
 
@@ -59,11 +55,9 @@ Here are some ideas to get you started:
 
 <ul style="line-height: 1.7; font-size: 16px;">
 
-  <li>🛠 Build and manage infrastructure on <strong>AWS</strong> and <strong>Azure</strong> using <strong>Terraform</strong> for repeatable, secure provisioning</li>
+  <li>🛠 Build and manage infrastructure on <strong>AWS</strong> using <strong>Terraform</strong> for repeatable, secure provisioning</li>
 
-  <li>☁️ Operate services on <strong>GAIA Private Cloud</strong> with <strong>Kubernetes</strong> and <strong>Jules</strong>, delivering secure and efficient internal deployments</li>
-
-  <li>🚀 Design high-performance <strong>CI/CD pipelines</strong> using <strong>Azure DevOps, GitHub Actions, Jenkins,</strong> and <strong>Jules</strong>, reducing delivery friction</li>
+  <li>🚀 Design high-performance <strong>CI/CD pipelines</strong> using <strong>Aws DevOps, GitHub Actions, Jenkins,</strong> and <strong>Jules</strong>, reducing delivery friction</li>
 
   <li>📝 Manage codebases and collaboration with <strong>GitHub</strong> and <strong>Bitbucket</strong>, ensuring streamlined source control and peer workflows</li>
 
@@ -71,9 +65,9 @@ Here are some ideas to get you started:
 
   <li>🧪 Enforce quality with <strong>SonarQube</strong>, and manage artifacts with <strong>Nexus</strong> and <strong>JFrog Artifactory</strong></li>
 
-  <li>🔐 Secure cloud environments using <strong>IAM, RBAC,</strong> and <strong>Azure Key Vault</strong>, ensuring compliance and access control</li>
+  <li>🔐 Secure cloud environments using <strong>IAM, RBAC</strong>, ensuring compliance and access control</li>
 
-  <li>📊 Ensure observability and performance with <strong>Splunk, Dynatrace, Prometheus,</strong> and <strong>CloudWatch</strong>, minimizing downtime</li>
+  <li>📊 Ensure observability and performance with <strong>Splunk, Prometheus,</strong> minimizing downtime</li>
 
 </ul>
 
