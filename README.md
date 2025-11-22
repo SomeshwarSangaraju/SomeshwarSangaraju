@@ -103,11 +103,12 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 # 📊 GitHub Stats:
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+</div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
@@ -117,3 +118,26 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+# 💫 About Me:
+I'm a passionate DevOps Engineer with over 3+ years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability with AWS 
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/someshwar-sangaraju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:someshwar.sangaraju19@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarSangaraju&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SomeshwarSangaraju&icon=0&color=2)](https://visitcount.itsvg.in)
+
+Proudly created with GPRM ( https://gprm.itsvg.in )
