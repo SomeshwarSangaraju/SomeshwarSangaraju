@@ -1,6 +1,6 @@
 
 
-<div style="align: center;">
+<div align="center">
     <img src="banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
@@ -97,7 +97,7 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 # 📊 GitHub Stats:
-<div style="align:center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
 </div>
 
