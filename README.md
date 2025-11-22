@@ -108,7 +108,8 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 </div> -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
+</div><br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
