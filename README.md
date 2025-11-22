@@ -5,7 +5,7 @@
 </div>
 
 
-## 👋 Hi, i'm Someshwar Sangaraju
+<!-- ## 👋 Hi, i'm Someshwar Sangaraju -->
 <h1 style="font-size: 48px;">👋 Hi, i'm Someshwar Sangaraju</h1>
 <!-- LinkedIn logo only -->
 <a href="https://linkedin.com/in/someshwar-sangaraju" target="_blank">
