@@ -81,17 +81,17 @@ Here are some ideas to get you started:
 <body>
     <section class="section">
         <h2 class="section-title">💠 Skills Showcase</h2>
-        <div class="skills-row">
-            <img src="aws.png">
-            <img src="terraform.png">
-            <img src="ansible.png">
-            <img src="jenkins.png">
-            <img src="docker.png">
-            <img src="kubernates.png">
-            <img src="linux.png">
-            <img src="bash.png">
-            <img src="git.png">
-            <img src="vscode.png">
+        <div class="skills-row" width="200">
+            <img src="aws.png" width="200">
+            <img src="terraform.png" width="200">
+            <img src="ansible.png" width="200">
+            <img src="jenkins.png" width="200">
+            <img src="docker.png" width="200">
+            <img src="kubernates.png" width="200">
+            <img src="linux.png" width="200">
+            <img src="bash.png" width="200">
+            <img src="git.png" width="200">
+            <img src="vscode.png" width="200">
         </div>
     </section>
 </body>
