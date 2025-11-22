@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="800">
-</p>
 
+<div align="center">
+    <img src="banner.png" alt="GitHub Banner" width="800"/>
+</div>
 
 
 ## 👋 Hi, i'm Someshwar Sangaraju
