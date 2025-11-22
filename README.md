@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="/mnt/data/Screenshot 2025-11-22 200152.png" alt="Banner" width="900">
+</p>
+
+
+
+## 👋 Hi, i'm Someshwar Sangaraju
 
 <!--
 **SomeshwarSangaraju/SomeshwarSangaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
