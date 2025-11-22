@@ -1,4 +1,13 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Stats Layout</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 <div align="center">
     <img src="banner.png" alt="GitHub Banner" width="800"/>
 </div>
@@ -75,6 +84,28 @@ Here are some ideas to get you started:
 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
+
+
+
+
+    <!-- Skills Section -->
+    <section class="section">
+        <h2 class="section-title">💠 Skills Showcase</h2>
+        <div class="skills-row">
+            <img src="aws.png">
+            <img src="terraform.png">
+            <img src="ansible.png">
+            <img src="jenkins.png">
+            <img src="docker.png">
+            <img src="k8s.png">
+            <img src="linux.png">
+            <img src="bash.png">
+            <img src="apache.png">
+            <img src="git.png">
+            <img src="vscode.png">
+        </div>
+    </section>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SomeshwarSangaraju&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SomeshwarSangaraju&theme=dark&hide_border=true)<br/>
@@ -84,5 +115,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=SomeshwarSangaraju&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
-
+</body>
+</html>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
