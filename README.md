@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/mnt/data/Screenshot 2025-11-22 200152.png" alt="Banner" width="900">
+  <img src="banner.png" alt="Banner" width="900">
 </p>
 
 
