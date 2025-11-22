@@ -31,8 +31,53 @@ Here are some ideas to get you started:
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 💼 Tech Stack:
+
+<!-- Tech Stack -->
+<h2>💼 Tech Stack</h2>
+
+<ul style="line-height: 1.7; font-size: 16px;">
+
+  <li><strong>Cloud:</strong> AWS, Azure, GAIA Cloud</li>
+  <li><strong>OS:</strong> Linux, Windows</li>
+  <li><strong>CI/CD:</strong> Azure DevOps, GitHub Actions, Jenkins, Jules</li>
+  <li><strong>SCM:</strong> GitHub, Bitbucket</li>
+  <li><strong>IaC:</strong> Terraform, Cloudformation</li>
+  <li><strong>Containers:</strong> Docker, Kubernetes</li>
+  <li><strong>Security &amp; Scanning:</strong> SonarQube, Snyk</li>
+  <li><strong>Artifactory:</strong> Nexus, JFrog</li>
+  <li><strong>Scripting:</strong> Bash, Shell, Python</li>
+  <li><strong>Monitoring:</strong> Splunk, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor</li>
+
+</ul>
+
+<hr style="border: 0; border-top: 2px solid #d6dbe0; margin: 25px 0;">
+
+
+<!-- What I Do -->
+<h2>🛠️ What I Do</h2>
+
+<ul style="line-height: 1.7; font-size: 16px;">
+
+  <li>🛠 Build and manage infrastructure on <strong>AWS</strong> and <strong>Azure</strong> using <strong>Terraform</strong> for repeatable, secure provisioning</li>
+
+  <li>☁️ Operate services on <strong>GAIA Private Cloud</strong> with <strong>Kubernetes</strong> and <strong>Jules</strong>, delivering secure and efficient internal deployments</li>
+
+  <li>🚀 Design high-performance <strong>CI/CD pipelines</strong> using <strong>Azure DevOps, GitHub Actions, Jenkins,</strong> and <strong>Jules</strong>, reducing delivery friction</li>
+
+  <li>📝 Manage codebases and collaboration with <strong>GitHub</strong> and <strong>Bitbucket</strong>, ensuring streamlined source control and peer workflows</li>
+
+  <li>🤖 Automate infrastructure and operational tasks using <strong>Linux, Shell scripting,</strong> and <strong>Python</strong>, improving consistency and speed</li>
+
+  <li>🧪 Enforce quality with <strong>SonarQube</strong>, and manage artifacts with <strong>Nexus</strong> and <strong>JFrog Artifactory</strong></li>
+
+  <li>🔐 Secure cloud environments using <strong>IAM, RBAC,</strong> and <strong>Azure Key Vault</strong>, ensuring compliance and access control</li>
+
+  <li>📊 Ensure observability and performance with <strong>Splunk, Dynatrace, Prometheus,</strong> and <strong>CloudWatch</strong>, minimizing downtime</li>
+
+</ul>
+
+<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
@@ -44,7 +89,6 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=SomeshwarSangaraju&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
