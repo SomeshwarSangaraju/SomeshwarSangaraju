@@ -40,6 +40,7 @@ I’m a passionate DevOps Engineer with over 3+ years of experience in building 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
 <h2>💼 Tech Stack</h2>
+
 <p style="font-size: 36px; font-weight:600;">Tech Stack</p>
 
 <ul style="font-size: 26px;">
