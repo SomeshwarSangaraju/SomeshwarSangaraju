@@ -145,6 +145,11 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 3+ years of experi
 
 <img src="https://raw.githubusercontent.com/SomeshwarSangaraju/SomeshwarSangaraju/output/snake.svg" alt="Snake animation" />
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SomeshwarSangaraju.SomeshwarSangaraju&"  />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
