@@ -143,7 +143,15 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 3+ years of experi
 
 
 
-<img src="https://raw.githubusercontent.com/SomeshwarSangaraju/SomeshwarSangaraju/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/SomeshwarSangaraju/SomeshwarSangaraju/output/snake.svg" alt="Snake animation" /> -->
+
+
+<img
+  src="https://raw.githubusercontent.com/SomeshwarSangaraju/SomeshwarSangaraju/output/snake.svg?sanitize=true"
+  alt="Snake animation"
+  width="300"   
+  height="300"  
+/>
 
 
 <!-- <div align="center">
