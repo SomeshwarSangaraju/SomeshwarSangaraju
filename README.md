@@ -39,7 +39,7 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 3+ years of experi
 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
-<h2>💼 Tech Stack</h2>
+<h2> 🧰 Tech Stack</h2>
 
 <ul style="font-size: 26px;">
 
@@ -79,6 +79,30 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 3+ years of experi
   <li>📊 Ensure observability and performance with <strong>Splunk, Prometheus,</strong> minimizing downtime</li>
 
 </ul>
+
+<hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
+
+<div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 700px;">
+  <h2>💼 Career Snapshot</h2>
+
+  <div style="margin-bottom: 20px;">
+    <h3>🏢 Wipro  – Project Engineer</h3>
+    <p>
+      Designed secure cloud infrastructure using AWS.
+      Built CI/CD pipelines, implemented Infrastructure as Code (IaC), 
+      and improved uptime and operational efficiency.
+    </p>
+  </div>
+
+  <!-- <div>
+    <h3>🏢 Avineon – GIS Engineer</h3>
+    <p>
+      Developed spatial mapping solutions using AutoCAD. Delivered 24/7 system monitoring 
+      and ensured data accuracy and map validation integrity.
+    </p>
+  </div> -->
+</div>
+
 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
