@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/someshwar-sangaraju" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
+&nbsp;&nbsp;
 <!-- Gmail with full email -->
 <a href="mailto:someshwar.sangaraju19@gmail.com">
   <img src="https://img.shields.io/badge/someshwar.sangaraju19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
