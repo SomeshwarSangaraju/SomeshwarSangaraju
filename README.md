@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/someshwar.sangaraju19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/someshwar-sangaraju/)
+<!-- [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@someshwarsangaraju) -->
+[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com)
+
 <!-- # 💫 About Me: -->
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
 
