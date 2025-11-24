@@ -28,7 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/someshwar-sangaraju/)
 <!-- [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@someshwarsangaraju) -->
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com)
 
 <!-- # 💫 About Me: -->
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
