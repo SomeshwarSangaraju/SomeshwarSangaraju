@@ -26,9 +26,17 @@
   <img src="https://img.shields.io/badge/someshwar.sangaraju19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/someshwar-sangaraju/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/someshwar-sangaraju/)
 <!-- [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@someshwarsangaraju) -->
-[![Gmail](https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com)
+<!-- [![Gmail](https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com) --> -->
+
+<a href="https://www.linkedin.com/in/someshwar-sangaraju/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn">
+</a>
+<a href="mailto:someshwar.sangaraju19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email">
+</a>
+
 
 <!-- # 💫 About Me: -->
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 20px 0;">
@@ -144,6 +152,9 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 3+ years of experi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SomeshwarSangaraju&icon=0&color=2)](https://visitcount.itsvg.in)
+
+
+Thanks for visiting!
 
 
 
