@@ -29,13 +29,13 @@
 
 <div style="display:inline-flex;gap:8px;align-items:center;">
   <a href="https://www.linkedin.com/in/someshwar-sangaraju/"  rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" style="height:23px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" style="height:23px;">
   </a>
   <a href="https://medium.com/@someshwarsangaraju"  rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium" style="height:23px;">
+    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat"  style="height:23px;">
   </a>
   <a href="mailto:someshwar.sangaraju19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email" style="height:23px;">
+    <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" style="height:23px;">
   </a>
 </div>
 
@@ -43,17 +43,6 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/someshwar-sangaraju/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@someshwarsangaraju)
  [![Gmail](https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com)  -->
-
-<a href="https://www.linkedin.com/in/someshwar-sangaraju/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn">
-</a>
-<a href="https://medium.com/@someshwarsangaraju">
-  <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium">
-</a>
-<a href="mailto:someshwar.sangaraju19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email">
-</a> 
-
 
 
 <!-- # 💫 About Me: -->
