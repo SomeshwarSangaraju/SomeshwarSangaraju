@@ -24,6 +24,9 @@
 <a href="mailto:someshwar.sangaraju19@gmail.com">
   <img src="https://img.shields.io/badge/someshwar.sangaraju19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+<a href="https://medium.com/@someshwarsangaraju">
+  <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium">
+</a>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/someshwar-sangaraju/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@someshwarsangaraju)
