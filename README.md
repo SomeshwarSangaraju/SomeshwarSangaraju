@@ -44,7 +44,7 @@
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@someshwarsangaraju)
  [![Gmail](https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com)  -->
 
-<!-- <a href="https://www.linkedin.com/in/someshwar-sangaraju/">
+<a href="https://www.linkedin.com/in/someshwar-sangaraju/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn">
 </a>
 <a href="https://medium.com/@someshwarsangaraju">
@@ -52,7 +52,7 @@
 </a>
 <a href="mailto:someshwar.sangaraju19@gmail.com">
   <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email">
-</a> -->
+</a> 
 
 
 
