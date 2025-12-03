@@ -28,6 +28,19 @@
   <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium">
 </a>
 
+<div style="display:inline-flex;gap:8px;align-items:center;">
+  <a href="https://www.linkedin.com/in/someshwar-sangaraju/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" style="height:28px;">
+  </a>
+  <a href="https://medium.com/@someshwarsangaraju" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium" style="height:28px;">
+  </a>
+  <a href="mailto:someshwar.sangaraju19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email" style="height:28px;">
+  </a>
+</div>
+
+
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/someshwar-sangaraju/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@someshwarsangaraju)
  [![Gmail](https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat)](mailto:someshwar.sangaraju19@gmail.com)  -->
