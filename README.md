@@ -17,26 +17,25 @@
 </p>
 
 <!-- LinkedIn logo only -->
-<a href="https://linkedin.com/in/someshwar-sangaraju" target="_blank">
+<!-- <a href="https://linkedin.com/in/someshwar-sangaraju" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<!-- Gmail with full email -->
 <a href="mailto:someshwar.sangaraju19@gmail.com">
   <img src="https://img.shields.io/badge/someshwar.sangaraju19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://medium.com/@someshwarsangaraju">
   <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium">
-</a>
+</a> -->
 
 <div style="display:inline-flex;gap:8px;align-items:center;">
   <a href="https://www.linkedin.com/in/someshwar-sangaraju/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" style="height:28px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" style="height:20px;">
   </a>
   <a href="https://medium.com/@someshwarsangaraju" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium" style="height:28px;">
+    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium" style="height:20px;">
   </a>
   <a href="mailto:someshwar.sangaraju19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email" style="height:28px;">
+    <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email" style="height:20px;">
   </a>
 </div>
 
