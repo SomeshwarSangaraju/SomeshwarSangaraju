@@ -28,14 +28,14 @@
 </a> -->
 
 <div style="display:inline-flex;gap:8px;align-items:center;">
-  <a href="https://www.linkedin.com/in/someshwar-sangaraju/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" style="height:20px;">
+  <a href="https://www.linkedin.com/in/someshwar-sangaraju/"  rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" style="height:23px;">
   </a>
-  <a href="https://medium.com/@someshwarsangaraju" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium" style="height:20px;">
+  <a href="https://medium.com/@someshwarsangaraju"  rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat" alt="Medium" style="height:23px;">
   </a>
   <a href="mailto:someshwar.sangaraju19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email" style="height:20px;">
+    <img src="https://img.shields.io/badge/Email-someshwar.sangaraju19@gmail.com-red?logo=gmail&style=flat" alt="Email" style="height:23px;">
   </a>
 </div>
 
