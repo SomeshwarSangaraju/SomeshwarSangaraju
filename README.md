@@ -106,7 +106,14 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 3+ years of experi
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 700px;">
   <h2>💼 Career Snapshot</h2>
 
-  <div style="margin-bottom: 20px;">
+  <div>
+    <h3>🏢 Target Corporate Services </h3>
+    <p>
+      Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
+    </p>
+  </div>
+
+  <div>
     <h3>🏢 Wipro  – Project Engineer</h3>
     <p>
       Designed secure cloud infrastructure using AWS.
@@ -115,13 +122,7 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 3+ years of experi
     </p>
   </div>
 
-  <!-- <div>
-    <h3>🏢 Avineon – GIS Engineer</h3>
-    <p>
-      Developed spatial mapping solutions using AutoCAD. Delivered 24/7 system monitoring 
-      and ensured data accuracy and map validation integrity.
-    </p>
-  </div> -->
+  
 </div>
 
 
