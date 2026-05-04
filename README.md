@@ -107,7 +107,7 @@ I’m a passionate <strong>DEVOPS ENGINEER</strong> with over 4 years of experie
   <h2>💼 Career Snapshot</h2>
 
   <div>
-    <h3>🏢 Intechfy Solutions </h3>
+    <h3>🏢 Intechfy Solutions - DevOps Engineer</h3>
     <p>
       Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
     </p>
